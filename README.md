@@ -1,8 +1,8 @@
-#CT299ThucHanhBuoi5
+#ThuchanhBuoi5
 
-**Họ và tên:** [Nguyễ Minh Huy]
+**Họ và tên:** Nguyễn Minh Huy
 
-**Mã số sinh viên:** [B2404859]
+**Mã số sinh viên:** B2404859
 
 **Môn học:** CT299 Phát triển hệ thống Web
 
