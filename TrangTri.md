@@ -12,10 +12,10 @@
 
 | STT | Họ và Tên | MSSV | Vai trò & Nhiệm vụ chính |
 | :---: | :--- | :---: | :--- |
-| 1 | Lưu Văn Mược | B2303765 | Thiết kế CSDL, Lập trình Trang chủ, Đăng nhập/Đăng ký |
-| 2 | Huỳnh Thị Yến Nhi | B2306634 | Phân tích hệ thống, Lập trình Phân hệ Khách hàng |
-| 3 | Dương Yến Nhi | B2306633 | Xây dựng Sơ đồ Use Case, Lập trình Quản lý xe & Dịch vụ |
-| 4 | Nguyễn Thị Kim Tuyến | B2303790 | Đặc tả Use Case, Lập trình Quản lý đơn đặt xe & Thống kê |
+| 1 | Nguyen Minh Huy| B2404859 | Thiết kế CSDL, Lập trình Trang chủ, Đăng nhập/Đăng ký |
+| 2 | Nguyen Trong Vy | B204890 | Phân tích hệ thống, Lập trình Phân hệ Khách hàng |
+| 3 | Duong Thanh Tuan | B2404xxx | Xây dựng Sơ đồ Use Case, Lập trình Quản lý xe & Dịch vụ |
+| 4 | Doan Huu Thien | B2404xxx | Đặc tả Use Case, Lập trình Quản lý đơn đặt xe & Thống kê |
 
 ---
 
